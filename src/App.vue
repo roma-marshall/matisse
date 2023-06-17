@@ -1,6 +1,6 @@
 <template>
-  <div class="my-20 mx-7 select-none">
-    <div class="font-['Rock_3D'] uppercase">
+  <div class="my-20 mx-7">
+    <div class="font-['Rock_3D'] uppercase select-none">
       <p class="text-3xl ml-6">henri</p>
       <h1 class="text-hero -mt-16 -mb-8">matisse</h1>
     </div>
@@ -16,5 +16,8 @@
 </script>
 
 <style scoped>
-
+::selection {
+  color: white;
+  background: black;
+}
 </style>
