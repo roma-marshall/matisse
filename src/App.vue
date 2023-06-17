@@ -1,5 +1,5 @@
 <template>
-  <div class="my-20 mx-7">
+  <div class="my-20 mx-7 select-none">
     <div class="font-['Rock_3D'] uppercase">
       <p class="text-3xl ml-6">henri</p>
       <h1 class="text-hero -mt-16 -mb-8">matisse</h1>
