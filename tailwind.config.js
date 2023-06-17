@@ -5,7 +5,14 @@ export default {
     "./src/**/*.{vue,js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontSize: {
+        'hero': '15rem'
+      },
+      fontFamily: {
+        'sans': ['Open Sans', 'Arial', 'sans-serif']
+      }
+    },
   },
   plugins: [],
 }
