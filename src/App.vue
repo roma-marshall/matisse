@@ -37,7 +37,7 @@
           <p>En 1900, il expose pour la première fois ses œuvres à l'Exposition universelle de Paris, où sont présentées ses célèbres peintures.</p>
         </div>
         <div>
-          <img src="public/img/matisse-profile.png" alt="matisse-profile">
+<!--          <img src="public/img/matisse-profile.png" alt="matisse-profile">-->
         </div>
         <div class="grid">
           <p>En 1905, Matisse devient l'un des fondateurs du fauvisme</p>
