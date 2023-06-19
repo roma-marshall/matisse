@@ -7,7 +7,8 @@ export default {
   theme: {
     extend: {
       fontSize: {
-        'hero': '15rem'
+        'hero': '15rem',
+        'lead': '5rem'
       },
       fontFamily: {
         'sans': ['Open Sans', 'Arial', 'sans-serif']
