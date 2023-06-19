@@ -1,6 +1,6 @@
 <template>
   <div class="my-7 mx-0 max-w-fit">
-    <div class="flex justify-end text-lg mb-60">
+    <div class="flex justify-end text-lg select-none mb-60">
         <div class="mx-20">
           <a href="#">biographie</a>
         </div>
@@ -12,7 +12,7 @@
           <a href="#">médias</a>
         </div>
     </div>
-    <div class="font-['Rock_3D'] uppercase select-none ">
+    <div class="font-['Rock_3D'] uppercase select-none">
       <p class="text-4xl ml-6 tracking-widest">henri</p>
       <h1 class="text-hero -mt-20 -mb-10">matisse</h1>
     </div>
